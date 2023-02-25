@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>noun-checkbox-1043037 copy 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="140.03991%" id="linearGradient-1">
+            <stop stop-color="#56AA2E" offset="0%"></stop>
+            <stop stop-color="#A6DE61" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FXbox.io" transform="translate(-146.000000, -6957.000000)" fill="url(#linearGradient-1)">
+            <g id="noun-checkbox-1043037-copy-2" transform="translate(146.000000, 6957.000000)">
+                <path d="M10,0 C4.48421053,0 0,4.48421053 0,10 C0,15.5157895 4.48421053,20 10,20 C15.5157895,20 20,15.5157895 20,10 C20,4.48421053 15.5157895,0 10,0 Z M8.86323308,13.9789474 L4.80007519,9.91578947 L5.8737218,8.84214286 L8.86319549,11.8316165 L14.7579323,5.9368797 L15.8315789,7.01052632 L8.86323308,13.9789474 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

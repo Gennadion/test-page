@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="52px" viewBox="0 0 51 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <linearGradient x1="13.7254902%" y1="12.4760952%" x2="89.2156863%" y2="98.3742113%" id="linearGradient-1">
+            <stop stop-color="#E468F6" offset="0%"></stop>
+            <stop stop-color="#A578FF" offset="49.3933%"></stop>
+            <stop stop-color="#6681FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.0684238%" y1="18.2209547%" x2="89.133553%" y2="56.2796916%" id="linearGradient-2">
+            <stop stop-color="#E767FE" offset="0%"></stop>
+            <stop stop-color="#9B79FF" offset="49.3933%"></stop>
+            <stop stop-color="#6182FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-636.000000, -146.000000)">
+            <g id="Group-3" transform="translate(636.000000, 146.000000)">
+                <path d="M0,3 C0,1.34315 1.34315,0 3,0 L48,0 C49.7261,0 51,1.3522 51,3 L51,32 L47.5,28 L38,17 L26,44.5 L9,25 L3.5,37 L0,44.6842 L0,3 Z M47.5,3.54231 L3.5,3.54231 L3.5,23 L8,13.5 L24,32.5 L37,5.5 L47.5,18.5 L47.5,3.54231 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M47.5,48.5 L3.5,48.5 L3.5,43.5 L0.38548,50.3464 C0.9271,51.2839 1.96356,52 3,52 L48,52 C49.6569,52 51,50.6569 51,49 L51,36.5 L47.5,32.5 L47.5,48.5 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
